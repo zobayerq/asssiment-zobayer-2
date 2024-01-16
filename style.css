@@ -248,7 +248,41 @@ max-height: 550px;
    .img-contenar{
     margin: 0 auto;
     max-width: 1170px;
+    margin-top: 100px;
 
+   }
+
+   .img-contenar-txt{
+    display: flex;
+    
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 48px;
+
+
+   }
+   .img-contenar-txt h4{
+    color: #131318;
+text-align: center;
+font-family: 'Mulish';
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 24px;
+
+
+   }
+   .img-contenar-txt p{
+    
+    max-width: 643px;
+    color: rgba(19, 19, 24, 0.70);
+text-align: center;
+font-family: 'Mulish';
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
    }
    .img-contenar-img-box-1 img{
 
@@ -307,6 +341,150 @@ font-weight: 800;
 
    }
 
+
+ 
+
+   .img-contenar-img-box-2{
+    display: flex;
+    
+    
+
+   } 
+ 
+
+ .d-img-body-1{
+    max-width: 374px;
+    height: auto;
+    margin-right: 24px;
+    position: relative;
+
+    
+ }
+ .d-img-body-1 img{
+    width: 100%;
+    height: auto;
+
+ }
+ .d-img-body-1 h4{
+    position: absolute;
+    color: #FFF;
+
+font-family: 'Mulish';
+font-size: 28px;
+font-weight: 800;
+top: 41%;
+right: 36%;
+
+
+
+
+ }
+
+
+
+
+ .d-img-body-2{
+    max-width: 474px;
+    margin-right: 24px;
+    position: relative;
+
+ }
+ .d-img-body-2 img{
+    width: 100%;
+    height: auto;
+ }
+ .d-img-body-2 h4{
+    position: absolute;
+    color: #FFF;
+
+font-family: 'Mulish';
+font-size: 28px;
+font-weight: 800;
+top: 41%;
+right: 34%;
+
+ }
+
+
+
+
+ .d-img-body-3{
+    max-width: 474px;
+    position: relative;
+
+ }
+ .d-img-body-3 img{
+    width: 100%;
+    height: auto;
+
+
+ }
+ .d-img-body-3 h4{
+    position: absolute;
+    color: #FFF;
+
+font-family: 'Mulish';
+font-size: 28px;
+font-weight: 800;
+top: 41%;
+right: 36%;
+
+ }
+
+ .img-contenar-img-box-3{
+    margin-top: 24px;
+
+    display: flex;
+ }
+ .e-img-body-2{
+    max-width: 673px;
+    
+    position: relative;
+
+ }
+ .e-img-body-2 h4{
+    
+    color: #FFF;
+position: absolute;
+font-family: 'Mulish';
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+top: 43%;
+right: 40%;
+ }
+ .e-img-body-2 img{
+    width: 100%;
+
+ }
+
+
+ .e-img-body-1{
+    max-width: 473px;
+    margin-right: 24px;
+    position: relative;
+
+ }
+ .e-img-body-1 h4{
+    
+    color: #FFF;
+position: absolute;
+font-family: 'Mulish';
+font-size: 28px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+top: 43%;
+right: 36%;
+ }
+ .e-img-body-1 img{
+    width: 100%;
+
+ }
+
+
+ 
 
 
 
