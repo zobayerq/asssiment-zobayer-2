@@ -241,6 +241,78 @@ max-height: 550px;
    }
 
 
+/* 
+   ......img box.......... */
+
+
+   .img-contenar{
+    margin: 0 auto;
+    max-width: 1170px;
+
+   }
+   .img-contenar-img-box-1 img{
+
+    height: auto;
+    width: 100%;
+   }
+
+
+   .img-contenar-img-box-1{
+    display: flex;
+    margin-bottom: 24px;
+   
+   
+    
+   }
+   .c-img-body-1 h3{
+    position: absolute;
+    top: 44%;
+    right: 42%;
+    color: #FFF;
+    font-size: 28px;
+
+font-weight: 800;
+    
+
+   }
+
+   .c-img-body-1{
+    max-width: 573px;
+height: auto;
+margin-right: 24px;
+position: relative;
+   
+
+   }
+
+   .c-img-body-2{
+    max-width: 573px;
+    height: auto;
+    position: relative;
+    
+    
+   }
+   .c-img-body-2 h3{
+    position: absolute;
+    top: 44%;
+    right: 40%;
+    color: #FFF;
+
+font-family: 'Mulish';
+font-size: 28px;
+
+font-weight: 800;
+
+    
+
+   }
+
+
+
+
+
+
+
 
 
 @media screen and (max-width: 600px) {
